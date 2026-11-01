@@ -2,6 +2,16 @@
 
 
 
+Estudiante: Campos Vanina Yael
+
+Asignatura: Organización empresarial - UTN - TUP
+
+Repositorio GitHub: https://github.com/YaelCampos3/carrefour-app-compra-en-linea
+
+Proyecto GitHub: https://github.com/users/YaelCampos3/projects/1/views/1
+
+
+
 ##### **Descripción del proyecto**
 
 
